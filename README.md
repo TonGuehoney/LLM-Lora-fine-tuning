@@ -45,3 +45,5 @@ model = model.merge_and_unload()
 tokenizer.save_pretrained(save_path)
 model.save_pretrained(save_path)
 
+
+##If you have more information about Lora and LLM fine-tuning problem,please contact me at tonxycs@gmail.com
